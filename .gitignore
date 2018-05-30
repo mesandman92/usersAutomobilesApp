@@ -8,7 +8,6 @@
 .settings/
 .project
 .classpath
-.springBeans
 **/target/
 /commit.txt
 /*/logs/
