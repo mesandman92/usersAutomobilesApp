@@ -1,0 +1,1 @@
+Simple CRUD App, wich can create users and assigns automobiles to them.
