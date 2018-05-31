@@ -27,6 +27,10 @@ public class User {
         autos = new ArrayList<>();
     }
 
+    public void addAuto(Auto auto) {
+        autos.add(auto);
+    }
+
     public void removeAuto (Auto auto) {
         autos.remove(auto);
     }
@@ -67,4 +71,5 @@ public class User {
                 ", age=" + age +
                 '}';
     }
+
 }
